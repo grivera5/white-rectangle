@@ -4,6 +4,20 @@
 # Log file
 *.log
 
+# IntelliJ Idea files
+*.iml
+.idea/workspace.xml
+.idea/tasks.xml
+
+# Maven target directory
+target/
+
+# Node.js modules
+node_modules/
+
+# macOS specific file
+.DS_Store
+
 # BlueJ files
 *.ctxt
 
